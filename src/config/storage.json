@@ -1,0 +1,4 @@
+{
+  "host": "mongodb://localhost:27017/blue_default",
+  "db": "blue_default"
+}

@@ -1,0 +1,9 @@
+{
+  "name": "Blue",
+  "restart": "on-failure:2",
+  "domain": "blue.glab.no",
+  "project": "Blue",
+  "env": {
+    "token": "NDYxMDI3MDE0MzY3NzcyNjcz.DjaQJQ.Obhf0OxZx-6Al7_6aweY3JaRhQ4"
+  }
+}

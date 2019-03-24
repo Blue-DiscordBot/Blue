@@ -1,0 +1,30 @@
+{
+  "dependencies": {
+    "discord.js": "^11.3.2",
+    "erlpack": "^0.1.2",
+    "mongodb": "^3.2.2",
+    "node-opus": "^0.3.0",
+    "npm": "^6.2.0",
+    "rimraf": "^2.6.2",
+    "simple-git": "^1.96.0",
+    "uws": "^10.148.1"
+  },
+  "scripts": {
+    "start": "node ."
+  },
+  "name": "Blue",
+  "version": "2.0.0",
+  "description": "Blue is a Discord bot.",
+  "main": "index.js",
+  "repository": "git@github.com:Blue-DiscordBot/Blue.git",
+  "author": "Henrik Næss <henrik@heka.no>",
+  "private": false,
+  "devDependencies": {
+    "eslint": "^5.1.0",
+    "eslint-config-standard": "^11.0.0",
+    "eslint-plugin-import": "^2.13.0",
+    "eslint-plugin-node": "^7.0.1",
+    "eslint-plugin-promise": "^3.8.0",
+    "eslint-plugin-standard": "^3.1.0"
+  }
+}
